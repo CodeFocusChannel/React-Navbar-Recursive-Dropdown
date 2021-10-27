@@ -7,6 +7,7 @@ export const lightTheme = {
     primary2: "rgb(200, 117, 147)",
     bg: "rgb(252, 252, 252)",
     bg2: "rgb(225, 225, 225)",
+    overlay: "rgba(225, 225, 225, 0.5)",
 };
 
 export const darkTheme = {
@@ -18,4 +19,5 @@ export const darkTheme = {
     primary2: "rgb(200, 117, 147)",
     bg: "rgb(3, 3, 3)",
     bg2: "rgb(30,30,30)",
+    overlay: "rgba(0, 0, 0, 0.4)",
 };

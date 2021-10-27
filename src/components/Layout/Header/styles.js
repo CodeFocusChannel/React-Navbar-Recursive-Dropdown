@@ -129,7 +129,7 @@ export const SMenu = styled.div`
     left: 100%;
     right: 0;
     bottom: 0;
-    background: ${({ theme }) => theme.bg};
+    background: ${({ theme }) => theme.overlay};
 
     width: 100%;
     height: calc(100% - ${v.headerHeight});
