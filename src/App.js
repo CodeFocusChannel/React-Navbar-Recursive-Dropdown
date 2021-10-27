@@ -15,7 +15,7 @@ const App = () => {
         <ThemeProvider theme={currentTheme}>
             <GlobalStyles />
             <Helmet>
-                <title>React Redux Boiler</title>
+                <title>React Recursive Nav</title>
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
                 <link
