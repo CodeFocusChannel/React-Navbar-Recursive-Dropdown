@@ -1,6 +1,6 @@
-# React Redux (reduxtoolkit) boilerplate
+# React Navbar Recursive Dropdown Navigation
 
-A boiler plate for react and reduxtoolkit projects
+A React navbar component with dropdown navigations that are rendered recursively.
 
 ## CodeFocus Channel
 
